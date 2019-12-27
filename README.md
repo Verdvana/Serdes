@@ -8,9 +8,9 @@
     * 通过LVDS物理接口实现传输；
     * 接收到的波形有毛刺。
 
-仿真波形：
+SignalTap抓取波形：
 
-![wave](https://raw.githubusercontent.com/Verdvana/Dec8b10b/master/Simulation/enc8b10b_TB/wave.jpg)
+![wave](https://raw.githubusercontent.com/Verdvana/Serdes/master/SignalTap/wave.jpg)
 
 
 | Flow Summary | Content |
